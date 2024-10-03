@@ -66,5 +66,4 @@ Below we describe the workflow of our experiment.
 
 
 ## Acknowledgement
-The code presented in the **CRISPY_memoryUsageAnalyzer** contains the references to the original implementation located in https://github.com/dos-group/crispy
-
+The code presented in the **CRISPY_memoryUsageAnalyzer** and dataset **arrow_cluster_jobs_(retrieved-from-Crispy).csv** contains the references to the original implementation located in https://github.com/dos-group/crispy.
