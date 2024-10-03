@@ -1,0 +1,9 @@
+mtype,kmeans_scaleout,pagerank_scaleout
+m4.l,24.0,32.0
+m4.xl,10.0,16.0
+m4.2xl,10.0,8.0
+r4.l,10.0,32.0
+r4.xl,4.0,16.0
+r4.2xl,8.0,8.0
+c4.xl,20.0,
+c4.2xl,10.0,
